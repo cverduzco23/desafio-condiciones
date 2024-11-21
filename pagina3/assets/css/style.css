@@ -1,0 +1,18 @@
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+button {
+    width: 100px;
+}
+
+p {
+    font-weight: 600;
+}
+
+#texto {
+    font-weight: 100;
+}

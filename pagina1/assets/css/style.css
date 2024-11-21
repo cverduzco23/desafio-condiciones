@@ -1,0 +1,24 @@
+div {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    cursor: pointer;
+    border: none;
+}
+
+.borde-rojo {
+    border: 2px solid red;
+}
+
+footer {
+    font-size: 0.7em;
+    text-align: center;
+}
